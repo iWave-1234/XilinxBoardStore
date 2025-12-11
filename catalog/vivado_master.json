@@ -6903,6 +6903,25 @@
           "metadata_file": "xitem.json"
         },
         "company": "iwave-global.com"
+      },
+      {
+        "name": "iW-G57M-2302-4L004G-E016G-BEB",
+        "display": "iW-G57M-2302-4L004G-E016G-BEB",
+        "latest_revision": "R2.0",
+        "commit_id": "a9624bbbb0e17c16687fa4adca9809aacf442e01",
+        "revisions": [
+          {
+            "revision": "R2.0",
+            "commit_id": "a9624bbbb0e17c16687fa4adca9809aacf442e01",
+            "date": "11-12-2025:08:18:28",
+            "history": "Added board iW-G57M-2302-4L004G-E016G-BEB vR2.0"
+          }
+        ],
+        "config": {
+          "root": "boards/iWave/iW-G57M-2302-4L004G-E016G-BEB/2.0",
+          "metadata_file": "xitem.json"
+        },
+        "company": "iwavesystems.com"
       }
     ],
     "categories": [
