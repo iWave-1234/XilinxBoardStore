@@ -7017,6 +7017,25 @@
           "metadata_file": "xitem.json"
         },
         "company": "NewWaveDesign.com"
+      },
+      {
+        "name": "admpb125_vp2502_2ms",
+        "display": "ADM-PB125/VP2502",
+        "latest_revision": "1.0",
+        "commit_id": "8f8efe13a529bd0b277a9ffab90aa9b3fe2c1c2a",
+        "revisions": [
+          {
+            "revision": "1.0",
+            "commit_id": "8f8efe13a529bd0b277a9ffab90aa9b3fe2c1c2a",
+            "date": "26-02-2026:07:15:55",
+            "history": "Added board ADM-PB125/VP2502 v1.0"
+          }
+        ],
+        "config": {
+          "root": "boards/AlphaData/admpb125_vp2502_2ms/1.0",
+          "metadata_file": "xitem.json"
+        },
+        "company": "alpha-data.com"
       }
     ],
     "categories": [
